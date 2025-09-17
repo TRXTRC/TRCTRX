@@ -2,22 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="referrer" content="example.com">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="refresh" content="0;url=https://iplog.link/cYMfBk">
   <title>Redirecting...</title>
   <script>
-    const params = new URLSearchParams(window.location.search);
-    const url = params.get('url');
-
-    if (url && (url.startsWith("http://") || url.startsWith("https://"))) {
-      window.location.href = url;
-    } else {
-      document.body.innerHTML = "<h3>Invalid or missing URL.</h3>";
-    }
+    // Fallback in case meta refresh doesn't work
+    setTimeout(function() {
+      window.location.href = "https://iplog.link/cYMfBk";
+    }, 100);
   </script>
 </head>
 <body>
-  <noscript>
-    <p>JavaScript required for redirect. Enable it to continue.</p>
-  </noscript>
+  <p>Redirecting... If you're not redirected, <a href="https://iplog.link/cYMfBk" rel="noreferrer">click here</a>.</p>
 </body>
 </html>
