@@ -1,19 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta name="mnd-ver" content="s8m7zw4koqbknmyapatkg" />
-  <meta charset="UTF-8">
-  <meta name="referrer" content="no-referrer">
-  <meta http-equiv="refresh" content="0;url=https://final-destination.com">
-  <title>Redirecting...</title>
-  <script>
-    // Fallback in case meta refresh doesn't work
-    setTimeout(function() {
-      window.location.href = "https://dq1111.blogspot.com";
-    }, 100);
-  </script>
-</head>
-<body>
-  <p>Redirecting... If you're not redirected, <a href="https://final-destination.com" rel="noreferrer">click here</a>.</p>
-</body>
-</html>
+<script type="text/javascript">
+//<![CDATA[
+var wid = '441868';
+var uid = '170625';
+var OPCIONES={"status": true, "parameter":"utm_source"};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+ !function() { function () {}var u,e,i,nt, rt, ot, ct, at, st, ut, ht, ft, gt,xt, pt, Pt, mt, lt, vt, Ct, St, dt, bt, n, yt, kt, wt, Et, $t, Xt,_t, Yt, Bt, qt, Qt, zt, Vt, At, Jt, Ut, jt, Ot, r, Dt, Ft, G
+
+//]]>
+
+-</script>
+
+
